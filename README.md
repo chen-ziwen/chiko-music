@@ -1,5 +1,12 @@
 # 千子音乐
 
+## 项目介绍
+- 千子音乐是一个基于 `Vue3 + TypeScript` 的音乐网站，实现了首页、排行榜、歌单、歌手、MV 等功能。
+
+- 该项目始于 `2022` 年，当时的我对 `Vue3` 并不算熟悉，在浏览 `github` 的过程中看到了 `NeteaseCloudMusicApi` 这个开源接口项目，于是便有了使用这个接口配合 `Vue3` 实现一个练手项目的想法。
+
+- 部署该网站的服务器在 `2023` 年就已经过期，目前为了能正常访问，已经将项目迁移到了 `Vercel` 上，访问速度相对会比较慢。（无所谓啦，能访问就行，几年前的练手项目而已）。
+
 ## 数据来源
 [NeteaseCloudMusicApi](https://github.com/chen-ziwen/NeteaseCloudMusicApi)
 ## 预览地址
