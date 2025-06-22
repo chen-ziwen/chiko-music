@@ -83,8 +83,8 @@ $ git clone git@github.com:chen-ziwen/NeteaseCloudMusicApi.git
 $ cd NeteaseCloudMusicApi
 $ npm install
 $ node app.js
-$ git clone git@github.com:chen-ziwen/chiko_music.git
-$ cd chiko_music
+$ git clone git@github.com:chen-ziwen/chiko-music.git
+$ cd chiko-music
 $ npm install
 $ npm start
 ```
