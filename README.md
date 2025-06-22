@@ -1,7 +1,7 @@
 ## 数据来源
 [NeteaseCloudMusicApi](https://github.com/chen-ziwen/NeteaseCloudMusicApi)
 ## 预览地址
-[千子音乐](http://chiko-music-web.vercel.app/)
+[千子音乐](http://chiko-music.vercel.app/)
 ## 部分截图展示
 ### 首页
 ![image](https://github.com/chen-ziwen/chiko_music/assets/85820568/30ede7f4-afe5-44ed-a8be-99174532eefa)

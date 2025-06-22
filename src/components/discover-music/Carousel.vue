@@ -43,7 +43,7 @@ async function banners() {
 }
 onMounted(async () => {
     await banners();
-    carousel.value.setActiveItem(0); // 解决第一张不显示问题
+    carousel.value.setActiveItem(0);
 });
 </script>
 
