@@ -1,3 +1,5 @@
+# 千子音乐
+
 ## 数据来源
 [NeteaseCloudMusicApi](https://github.com/chen-ziwen/NeteaseCloudMusicApi)
 ## 预览地址
@@ -11,7 +13,6 @@
 ![image](https://github.com/chen-ziwen/chiko_music/assets/85820568/398e770e-0168-49eb-b3b2-8519ccd68d46)
 ### 歌手
 ![image](https://github.com/chen-ziwen/chiko_music/assets/85820568/a926b99a-b62d-4bcb-ad0a-5468b071dd61)
-![image](https://github.com/chen-ziwen/chiko_music/assets/85820568/1b33105c-8bd1-45d4-96f1-fd7c0e5844d0)
 ### MV
 ![image](https://github.com/chen-ziwen/chiko_music/assets/85820568/ebd391df-28d1-435c-bb79-6e057b7d1185)
 ![image](https://github.com/chen-ziwen/chiko_music/assets/85820568/98b94415-b884-463f-8679-5bd4c3d3d97d)
@@ -74,7 +75,7 @@ chiko_music
 $ git clone git@github.com:chen-ziwen/NeteaseCloudMusicApi.git
 $ cd NeteaseCloudMusicApi
 $ npm install
-$ node app.js // 运行接口服务器 运行成功才能拿到数据
+$ node app.js
 $ git clone git@github.com:chen-ziwen/chiko_music.git
 $ cd chiko_music
 $ npm install
@@ -82,6 +83,6 @@ $ npm start
 ```
 ## 打包上线
 ```git
-$  npm run build // vue前端编译成dist，将nodejs项目和dist分别部署到自己的服务器上
+$  npm run build
 ```
 
