@@ -1,14 +1,11 @@
 import axios, { type AxiosRequestConfig } from "axios";
-import { isDev } from '../mode';
 interface API {
     get<T>(url: string, params?: any): Promise<T>
     post<T>(url: string, params?: any): Promise<T>
 }
 
-const baseURl = isDev ? 'http://localhost:3000/' : 'http://api.music.chiko.website';
-
 const instance = axios.create({
-    baseURL: baseURl,   // 默认请求地址
+    baseURL: import.meta.env.VITE_API_BASE_URL as string, // 默认请求地址
     timeout: 8000, // 请求超时八秒
     withCredentials: true, // 让cookie可以跨域请求
     // params: { realIP: "58.23.138.35" }, // 添加公共的参数,就是每个接口都需要的参数

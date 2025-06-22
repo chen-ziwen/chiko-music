@@ -8,7 +8,7 @@ const loginRouter = {
         isLogin: true,
         keepAlive: false
     },
-    component: () => import('../views/Login.vue'),
+    component: () => import('@/views/Login.vue'),
 }
 
 const mainRouter = [

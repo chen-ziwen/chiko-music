@@ -1,5 +1,5 @@
 import http from "./http";
-import type { SingerListType, SearchHotDetailType, RecommendList } from "@/models";
+import type { SearchHotDetailType, RecommendList } from "@/models";
 
 
 /**
@@ -431,7 +431,6 @@ export function getDetailDynamic(id: number) {
 
 /**
  * 说明 : 调用此接口 , 传入音乐 id(支持多个 id, 用 `,` 隔开), 可获得歌曲详情(dt为歌曲时长)
- * 
  * @function 获取歌曲详情
  * @param ids 音乐 id, 如 `ids=347230`
  */
