@@ -30,11 +30,7 @@
 ## 目录结构
 ```plaintext
 chiko_music
-├── dist
-│   └── assets
-│       └── images
-│           ├── singer
-│           └── test
+│
 ├── public
 │   └── assets
 │       └── images
