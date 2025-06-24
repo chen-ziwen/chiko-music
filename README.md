@@ -5,7 +5,7 @@
 
 - 该项目始于 `2022` 年，当时的我对 `Vue3` 并不算熟悉，在浏览 `github` 的过程中看到了 `NeteaseCloudMusicApi` 这个开源接口项目，于是便有了使用这个接口配合 `Vue3` 实现一个练手项目的想法。
 
-- 部署该网站的服务器在 `2023` 年就已经过期，目前为了能正常访问，已经将项目迁移到了 `Vercel` 上，访问速度相对会比较慢。（无所谓啦，能访问就行，几年前的练手项目而已）。
+- 部署该网站的服务器在 `2023` 年就已经过期，目前为了能正常访问，已经将项目迁移到了 `Vercel` 上，访问速度相对会比较慢。（无所谓啦，能访问就行，几年前的练手项目而已）
 
 ## 数据来源
 [NeteaseCloudMusicApi](https://github.com/chen-ziwen/NeteaseCloudMusicApi)
@@ -18,8 +18,10 @@
 ![image](https://github.com/chen-ziwen/chiko_music/assets/85820568/9568f480-be76-4179-ad36-02a516b6524d)
 ### 歌单
 ![image](https://github.com/chen-ziwen/chiko_music/assets/85820568/398e770e-0168-49eb-b3b2-8519ccd68d46)
+![image](https://github.com/user-attachments/assets/ced53d8a-2ab5-4467-a608-5f292db7364c)
 ### 歌手
 ![image](https://github.com/chen-ziwen/chiko_music/assets/85820568/a926b99a-b62d-4bcb-ad0a-5468b071dd61)
+![image](https://github.com/user-attachments/assets/5b9c37c8-559b-47f8-baab-6d55c6c37fc1)
 ### MV
 ![image](https://github.com/chen-ziwen/chiko_music/assets/85820568/ebd391df-28d1-435c-bb79-6e057b7d1185)
 ![image](https://github.com/chen-ziwen/chiko_music/assets/85820568/98b94415-b884-463f-8679-5bd4c3d3d97d)
